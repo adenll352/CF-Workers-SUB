@@ -12,9 +12,11 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93t.me%2FCMLiussss%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
-https://sub.xf.free.hr/auto
-https://WARP.fxxk.dedyn.io/auto
+vless://d66bb1f0-951b-47b8-aca6-d9b47a4f2e89@18.139.136.71:44333/?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=pSNkQLjQI9tpQQf080rSqbnMW4yKvfgH3SwkwWAE4yw&fp=chrome#reality-18.139.136.71
+vless://2444e475-0833-404c-85f5-da459c0a2e92@152.69.230.73:11966/?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=xWR5riBUPexjSrLvK96CUTdvzdCxvtgYK7n220BQjxU&fp=ios#reality-152.69.230.73
+vless://f03c12f8-97f2-4e6b-9c27-75c0c17eec6a@oraclearm.132286.xyz:443/?encryption=none&security=tls&type=ws&host=oraclearm.132286.xyz&path=%2Ff03c12f8-97f2-4e6b-9c27-75c0c17eec6a#ws-oraclearm.132286.xyz
+vless://76f76636-ceba-4b5d-b9e9-55c0b7f09367@awssg.132286.xyz:443/?encryption=none&security=tls&type=ws&host=awssg.132286.xyz&path=/76f76636-ceba-4b5d-b9e9-55c0b7f09367#ws-awssg.132286.xyz
+tuic://4b386f87-71ab-4cee-bb9b-56f94304130f:@18.139.136.71:22389?alpn=h3&allow_insecure=1&congestion_control=bbr#tuic-18.139.136.71
 `
 
 let urls = [];
